@@ -32,6 +32,13 @@ Motto: Keep building until it clicks.
 <p align="center">
   <img width=380 src="https://github-readme-stats.vercel.app/api?username=Praveenraju10&rank_icon=github&show_icons=true&theme=merko&hide_border=false&count_private=true"  />
   <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Praveenraju10&theme=merko&hide_border=false" alt="Vishnu's Readme Streak" />
+  
+
+</p>
+<p align="center">
+
+  [![trophy](https://nirzak-trophies.vercel.app/?username=Praveenraju10&theme=merko&column=9&margin-w=18&margin-h=24&no-bg=true)](https://github.com/Nirzak/github-trophies-self-deploy)
+
 </p>
 
 ---
