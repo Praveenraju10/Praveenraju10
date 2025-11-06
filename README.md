@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```yaml
 Name: Praveen Raju K
@@ -25,19 +25,21 @@ Motto: Keep building until it clicks.
 
 ---
 
-### 💫 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,flutter,dart,html,css,js,fastapi,flask,firebase,git,github,java,pytorch,sklearn,opencv,mysql,sqlite,vscode&perline=10"/>
-</p>
 
----
-
-### ⚡ My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img width=380 src="https://github-readme-stats.vercel.app/api?username=Praveenraju10&rank_icon=github&show_icons=true&theme=merko&hide_border=false&count_private=true"  />
   <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=Praveenraju10&theme=merko&hide_border=false" alt="Vishnu's Readme Streak" />
+</p>
+
+---
+
+### My Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,flutter,dart,html,css,js,fastapi,flask,firebase,git,github,java,pytorch,sklearn,opencv,mysql,sqlite,vscode&perline=10"/>
 </p>
 
 ---
