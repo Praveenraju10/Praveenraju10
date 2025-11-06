@@ -5,21 +5,8 @@
 <!-- Animated Header Banner -->
 
 <p align="center">
-  <svg xmlns='http://www.w3.org/2000/svg' width='900' height='120' viewBox='0 0 900 120'>
-    <rect width='100%' height='100%' rx='8' fill='#09100D'/>
-    <g font-family='Segoe UI, Verdana, Arial' font-weight='600'>
-      <text x='30' y='45' fill='#bfff00' font-size='28'>Praveen Raju K</text>
-      <text x='30' y='75' fill='#9aa0a0' font-size='14'>AI/ML • Full-Stack • AgriTech</text>
-    </g>
-    <g>
-      <rect x='540' y='18' width='320' height='36' rx='6' fill='#0f2a12'/>
-      <text x='560' y='42' fill='#bfff00' font-family='Segoe UI' font-size='18' font-weight='700'>17</text>
-    </g>
-    <g>
-      <circle cx='690' cy='82' r='18' fill='none' stroke='#bfff00' stroke-width='4'/>
-      <text x='684' y='87' fill='#bfff00' font-family='Segoe UI' font-size='14' font-weight='700'>1</text>
-    </g>
-  </svg>
+  <img src="./praveen_banner.svg" alt="Praveen Raju K Banner" />
+
 
 </p>
 
